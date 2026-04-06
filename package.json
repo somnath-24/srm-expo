@@ -1,8 +1,0 @@
-{
-  "name": "srm-expo-chatbot",
-  "version": "1.0.0",
-  "description": "SRM TRP EEE Project Expo AI Chatbot",
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
